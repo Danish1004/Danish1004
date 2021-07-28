@@ -3,7 +3,7 @@
  ### <div align=center>  Tech-Enthusiast, Learner and a Cricketer.
 
 - 🌱 I’m currently learning Web Development.
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on Python projects !!
 - 🤔 I’m looking for help with JavaScript.
 - 💬 Ask me about HTML and CSS.
 
