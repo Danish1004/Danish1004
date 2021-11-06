@@ -2,10 +2,9 @@
 
  ### <div align=center>  Tech-Enthusiast, Learner and a Cricketer.
 
-- 🌱 I’m currently learning Web Development.
+- 🌱 I’m currently learning Ethical Hacking
 - 👯 I’m looking to collaborate on Python projects !!
-- 🤔 I’m looking for help with JavaScript.
-- 💬 Ask me about HTML and CSS.
+- 🤔 I’m looking for some ideas for projects.
 
 
 - ## :zap: Stats:                                                                 ![](https://visitor-badge.laobi.icu/badge?page_id=Danish1004.Danish1004)
