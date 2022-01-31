@@ -1,10 +1,9 @@
-### Hola, I'm Danish Sharma !  <img src="https://camo.githubusercontent.com/35d3d11359a49bf12aebb834cc13fd81b95eff4e/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" height="35px" width="35px">
+### Hola, I'm Danish Sharma !  <img src="https://camo.githubusercontent.com/35d3d11359a49bf12aebb834cc13fd81b95eff4e/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" height="30px" width="30px">
 
- ### <div align=center>  Tech-Enthusiast, Learner and a Cricketer.
+ ### <div align=center>  Tech-Enthusiast, Learner.
 
-- 🌱 I’m currently learning Ethical Hacking
-- 👯 I’m looking to collaborate on Python projects !!
-- 🤔 I’m looking for some ideas for projects.
+- 🌱 I’m a Front-end Developer.
+- 🤔 I’m looking for help in JavaScript.
 
 
 - ## :zap: Stats:                                                                 ![](https://visitor-badge.laobi.icu/badge?page_id=Danish1004.Danish1004)
@@ -13,10 +12,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danish1004&theme=tokyonight)
 
 - ## :gear: I'm good at:
- <img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" height="70px" width="70px"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="70" height="70"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" height="80px" width="80px"> 
-<img src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png" height="75px" width="80px"> 
-<img src="https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png" width="75">
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" height="75px" width="70px">
+ <img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" height="80" width="80"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="75" height="75"/>  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" height="75" width="75"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg" alt="cplusplus" width="70" height="70"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="cplusplus" width="70" height="70"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="cplusplus" width="70" height="70"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="cplusplus" width="70" height="70"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" height="70" width="70">
 - ## :rocket: Reach me at:
 1. [__*E-Mail*__](mailto:danishsharma13255@gmail.com)
 2. [__*Instagram*__](https://www.instagram.com/Danish_1004/)
