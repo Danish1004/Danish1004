@@ -7,9 +7,8 @@
 
 
 - ## :zap: Stats:                                                                 ![](https://visitor-badge.laobi.icu/badge?page_id=Danish1004.Danish1004)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Danish1004&show_icons=true&theme=tokyonight)
- 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danish1004&theme=tokyonight)
+
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danish1004&show_icons=true&theme=default)
 
 - ## :gear: I'm good at:
  <img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" height="80" width="80"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="75" height="75"/>  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" height="75" width="75"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg" alt="cplusplus" width="70" height="70"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="cplusplus" width="70" height="70"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="cplusplus" width="70" height="70"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="cplusplus" width="70" height="70"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" height="70" width="70">
