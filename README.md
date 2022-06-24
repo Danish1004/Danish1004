@@ -2,9 +2,7 @@
 
  ### <div align=center>  Tech-Enthusiast, Learner.
 
-- 🌱 I’m a Front-end Developer.
-- 🤔 I’m looking for help in JavaScript.
-
+- 🌱 I’m a Front-end Developer and a Cloud Practitioner.
 
 - ## :zap: Stats:                                                                 ![](https://visitor-badge.laobi.icu/badge?page_id=Danish1004.Danish1004)
 
@@ -17,4 +15,4 @@
 2. [__*Instagram*__](https://www.instagram.com/Danish_1004/)
 ## 🌠: Check my Website:
 [__*WEBSITE!*__]
- https://www,danish1004.github.io
+ https://www.danish1004.github.io
