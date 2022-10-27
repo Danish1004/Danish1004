@@ -19,3 +19,7 @@
 2. [__*Instagram*__](https://www.instagram.com/Danish_1004/)
 ## 🌠: Check my Website:
  https://danish1004.github.io
+<p align="center"> 
+  Visitors count<br>
+  <img src="https://profile-counter.glitch.me/Danish1004/count.svg" />
+</p>
