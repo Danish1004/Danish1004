@@ -18,7 +18,7 @@
 1. [__*E-Mail*__](mailto:danishsharma13255@gmail.com)
 2. [__*Instagram*__](https://www.instagram.com/Danish_1004/)
 ## 🌠: Check my Website:
- https://danish1004.github.io
+ https://danishsharma.xyz
 <p align="center"> 
   Visitors count<br>
   <img src="https://profile-counter.glitch.me/Danish1004/count.svg" />
