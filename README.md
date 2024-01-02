@@ -2,10 +2,8 @@
 
  ### <div align=center>  Tech-Enthusiast, Learner.
 
-- 🌱 I’m a **Front-end Developer** and a **Cloud Practitioner**.
-- 👯 I’m looking to collaborate on **Cloud/React**
-- 🤝 I’m looking for help with **DevOps**
-- 📫 I am open to learn from you about **Cloud Computing**
+- 🌱 I’m a **Front-end Developer** and a **App Developer**.
+- 👯 I’m looking to collaborate on **Kubernetes** projects.
  <br/>
 
 - ## :rocket: Languages And Tools:
