@@ -17,7 +17,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danish1004&" alt="danish1004" /></p>
 
 <!-- - ## :gear: I'm good at:
- [![My Skills](https://skills.thijs.gg/icons?i=c,cpp,python,html,css,js,react,nodejs,bootstrap,tailwind,git,mysql,aws)](https://skills.thijs.gg) -->
+ [![My Skills](https://skills.thijs.gg/icons?i=c,cpp,python,html,css,js,react,nodejs,dart,flutter,bootstrap,tailwind,git,mysql,aws)](https://skills.thijs.gg) -->
           
 - ## :rocket: Reach me at:
 1. [__*E-Mail*__](mailto:danishsharma13255@gmail.com)
